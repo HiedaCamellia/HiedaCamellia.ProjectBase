@@ -1,3 +1,4 @@
+.idea/
 **/coverage/*
 !**/coverage/.gdignore
 nupkg/
