@@ -13,7 +13,7 @@
     <DebugType>portable</DebugType>
 
     <Title>HiedaCamellia.ProjectBase</Title>
-    <Version>0.0.0-devbuild</Version>
+    <Version>0.0.1-devbuild</Version>
     <Description>HiedaCamellia.ProjectBase description.</Description>
     <Copyright>© 2024 HiedaCamellia</Copyright>
     <Authors>HiedaCamellia</Authors>
