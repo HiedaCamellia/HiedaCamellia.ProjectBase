@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiedaCamellia.ProjectBase", "HiedaCamellia.ProjectBase\HiedaCamellia.ProjectBase.csproj", "{D9C4D09B-3DEA-486A-8C39-6C249D68D4C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiedaCamellia.ProjectBase.Tests", "HiedaCamellia.ProjectBase.Tests\HiedaCamellia.ProjectBase.Tests.csproj", "{CAFC23A6-3060-4FA0-9BDF-56258C27123A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9C4D09B-3DEA-486A-8C39-6C249D68D4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9C4D09B-3DEA-486A-8C39-6C249D68D4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9C4D09B-3DEA-486A-8C39-6C249D68D4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9C4D09B-3DEA-486A-8C39-6C249D68D4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFC23A6-3060-4FA0-9BDF-56258C27123A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFC23A6-3060-4FA0-9BDF-56258C27123A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFC23A6-3060-4FA0-9BDF-56258C27123A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFC23A6-3060-4FA0-9BDF-56258C27123A}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
